@@ -1,0 +1,9 @@
+.login{
+  margin: 150px auto;
+  width: 500px;
+  height: 300px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
